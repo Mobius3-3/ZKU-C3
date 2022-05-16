@@ -1,0 +1,6 @@
+[submodule "ZKU-C3-Week1"]
+	path = ZKU-C3-Week1
+	url = https://github.com/Mobius3-3/ZKU-C3-Week1
+[submodule "ZKU-C3-Week2"]
+	path = ZKU-C3-Week2
+	url = https://github.com/Mobius3-3/ZKU-C3-Week2
